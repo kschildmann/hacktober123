@@ -1,3 +1,3 @@
 # hacktober123
 
-This is a
+This is a repo.
